@@ -6,3 +6,5 @@ url: "https://tamagusko.github.io/"
 
 plugins:
   - jekyll-feed
+
+theme: jekyll-theme-minimal
