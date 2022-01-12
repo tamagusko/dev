@@ -1,16 +1,9 @@
-That's me. 
+Enthusiast of AI, programming, and active mobility.
 
-[Here's](https://github.com/s-zeng/) my Github.
+See my projects on my [GitHub](https://github.com/tamagusko/).
 
-[This](https://www.linkedin.com/in/s-zeng1/) is my LinkedIn.
+You can find out more about me on my [linkedin](https://www.linkedin.com/in/tamagusko) or on my [CV](/files/TamaguskoCV.pdf).
 
-[Here](https://simonzeng.com/resume) is my resume.
+My e-mail is [tamagusko@gmail.com](mailto:tamagusko@gmail.com).
 
-My e-mail is [contact@simonzeng.com](mailto:contact@simonzeng.com).
-
-Talk to me on [matrix](https://matrix.org/)! You can message me 
-[@sz:simonzeng.com](https://matrix.to/#/@sz:simonzeng.com)
-
-For end-to-end encrypted communications, you can either reach me on matrix, or 
-use my [PGP public key](/pgp).
-
+For end-to-end encrypted communications you can use my [PGP public key](/pgp).
