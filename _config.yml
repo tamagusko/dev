@@ -1,0 +1,8 @@
+title: Tiago Tamagusko
+author: Tiago Tamagusko
+description: Civil Engineer and Data Analyst
+email: tamagusko@gmail.com
+url: "https://tamagusko.github.io/"
+
+plugins:
+  - jekyll-feed
